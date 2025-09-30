@@ -1,0 +1,52 @@
+{
+    "general": {
+        "video_copied": "Video link copied to clipboard",
+        "dislikes": "Dislikes"
+    },
+    "settings": {
+        "ad_block": {
+            "title": "Ad Block",
+            "description": "Seamlessly blocks video and feed ads, not subject to YouTube's methods of preventing blockers. Relaunch after toggling."
+        },
+        "sponsorblock_unused": {
+            "title": "SponsorBlock",
+            "description": "Skips sponsor segments in YouTube videos using a crowdsourced database. Also supports skipping intros, outros, and reminders to subscribe. Relaunch after toggling."
+        },
+        "dearrow": {
+            "title": "DeArrow",
+            "description": "Replaces titles and thumbnails with more accurate, less sensationalized versions from a public crowdsourced database. Slows down loading, as it has to fetch info from the server. Relaunch after toggling."
+        },
+        "dislikes": {
+            "title": "Return Dislikes",
+            "description": "Uses the Return YouTube Dislike API (returnyoutubedislike.com) to re-add dislikes to YouTube. Slows down video loading, as it has to fetch info from the server. Relaunch after toggling."
+        },
+        "hide_shorts": {
+            "title": "Hide Shorts",
+            "description": "Hides YouTube Shorts from the homepage. Relaunch after toggling."
+        },
+        "h264ify": {
+            "title": "Force H.264 (h264ify)",
+            "description": "Forces YouTube to only stream videos in the H.264 codec. This can help with performance and battery life on slower devices, but prevents you from watching anything above 1080p. Relaunch after toggling."
+        },
+        "hardware_decoding": {
+            "title": "Hardware Decoding",
+            "description": "Uses your GPU to decode videos when possible. Disabling this may fix playback issues, but can cause lag depending on your CPU. Relaunch after toggling."
+        },
+        "low_memory_mode": {
+            "title": "Low Memory Mode",
+            "description": "Tells YouTube to enable low memory mode, which may improve performance on slower devices at the cost of some visual effects. Relaunch after toggling."
+        },
+        "fullscreen": {
+            "title": "Fullscreen",
+            "description": "Enables fullscreen, and makes VacuumTube always launch in fullscreen."
+        },
+        "keep_on_top": {
+            "title": "Keep on Top",
+            "description": "Enables Keep on Top, and makes VacuumTube launch with the window pinned on top of every other window."
+        },
+        "userstyles": {
+            "title": "Custom CSS (Userstyles)",
+            "description": "Enables injection of custom CSS styles. Place your .css files in the {path} folder."
+        }
+    }
+}

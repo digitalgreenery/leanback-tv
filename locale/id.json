@@ -1,0 +1,48 @@
+{
+    "general": {
+        "video_copied": "Tautan video disalin ke papan klip",
+        "dislikes": "Tidak Suka"
+    },
+    "settings": {
+        "ad_block": {
+            "title": "Blokir Iklan",
+            "description": "Blokir iklan beranda dan video, tanpa perlu khawatir terdeteksi YouTube. Luncurkan ulang setelah mengubah."
+        },
+        "sponsorblock_unused": {
+            "title": "SponsorBlock",
+            "description": "Lewati segmen sponsor pada video YouTube berdasarkan basis data publik. Juga mendukung fitur lewati intro, outro, dan ajakan langganan (subscribe). Luncurkan ulang setelah mengubah."
+        },
+        "dearrow": {
+            "title": "DeArrow",
+            "description": "Mengganti judul dan gambar pratinjau video yang lebih akurat dan tidak sensasional dari basis data publik yang dihimpun bersama. Proses pengambilan informasi dari server ini akan mengakibatkan bertambahnya waktu muat VacuumTube. Luncurkan ulang setelah mengubah."
+        },
+        "dislikes": {
+            "title": "Kembalikan Jumlah 'Tidak Suka'",
+            "description": "Gunakan API Return YouTube Dislike (returnyoutubedislike.com) untuk mengembalikan fitur info jumlah 'Tidak Suka' pada video YouTube. Proses pengambilan info ini akan memperlambat pemuatan video. Luncurkan ulang setelah mengubah."
+        },
+        "h264ify": {
+            "title": "Gunakan H.264 (h264ify)",
+            "description": "Memastikan YouTube hanya memutar video dalam enkripsi-penguraian (codec) H.264. Membantu meningkatkan performa dan optimasi daya baterai, namun akan membatasi pemutaran video di atas resolusi 1080p. Luncurkan ulang setelah mengubah."
+        },
+        "hardware_decoding": {
+            "title": "Optimasi Grafis (Hardware Decoding)",
+            "description": "Gunakan kartu grafis (GPU) untuk mengurai pemutaran video jika sanggup. Mematikan opsi ini mungkin dapat menyelesaikan sebagian masalah pemutaran, namun dapat menghambat video jika prosesor tidak memadai. Luncurkan ulang setelah mengubah."
+        },
+        "low_memory_mode": {
+            "title": "Optimasi Memori",
+            "description": "Lakukan optimasi untuk perangkat bermemori rendah dengan mengurangi beberapa efek visual. Luncurkan ulang setelah mengubah."
+        },
+        "fullscreen": {
+            "title": "Mode Layar Penuh",
+            "description": "Memastikan VacuumTube selalu masuk dalam mode layar penuh setelah diluncurkan."
+        },
+        "keep_on_top": {
+            "title": "Tetap di Atas",
+            "description": "Memastikan jendela VacuumTube selalu berada di atas jendela aplikasi lain."
+        },
+        "userstyles": {
+            "title": "Kustomisasi CSS (Userstyles)",
+            "description": "Memungkinkan penggunaan gaya CSS kustom. Letakkan file .css kustom pada folder {path}."
+        }
+    }
+}
